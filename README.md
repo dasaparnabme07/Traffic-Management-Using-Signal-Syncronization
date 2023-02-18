@@ -24,11 +24,13 @@ At the moment, if there is a traffic issue, the specific traffic light system fa
 To put it simply, we have developed this model utilizing a GUI and certain built-in libraries. Python was selected as the language since it supports OOP and has built-in libraries for GUI.
 
 #### Contributors
+
 Saifur Rahman
 Sajjadul Islam Nader
 Pullock Deb Nath
 
 #### Contact
+
 Gmail: aparnadaspias.98@gmail.com
 Linkdin: https://www.linkedin.com/in/aparna-das-pias/
 Facebook: https://www.facebook.com/PiasDas
