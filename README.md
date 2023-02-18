@@ -26,14 +26,19 @@ To put it simply, we have developed this model utilizing a GUI and certain built
 #### Contributors
 
 Saifur Rahman
+
 Sajjadul Islam Nader
+
 Pullock Deb Nath
 
 #### Contact
 
 Gmail: aparnadaspias.98@gmail.com
+
 Linkdin: https://www.linkedin.com/in/aparna-das-pias/
+
 Facebook: https://www.facebook.com/PiasDas
+
 Instagram: https://www.instagram.com/impias/
 
 
