@@ -7,9 +7,13 @@ GUI: PyGame
 
 Libraries Used:
 pygame
+
 matplotlib
+
 time
+
 random
+
 numpy
 
 # Project Description:
